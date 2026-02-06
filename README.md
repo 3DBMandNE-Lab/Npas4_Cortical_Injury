@@ -147,7 +147,15 @@ See `CITATION.cff` for citation metadata. If you use this code, please cite:
 
 ## Corresponding Author
 
-- [Kevin Joseph], [Department of Neurosurgery, Medical Center - University of Freiburg] (ORCID: [0000-0001-6317-8736])
+**Kevin Joseph**,
+
+Laboratory for Neuroengineering, 
+
+Department of Neurosurgery, 
+
+Medical Center - University of Freiburg 
+
+(ORCID: [0000-0001-6317-8736])
 
 ## License
 
