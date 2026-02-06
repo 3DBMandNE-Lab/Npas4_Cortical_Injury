@@ -4,7 +4,7 @@ Companion analysis code for [Töykkälä et al., 2026].
 
 ## Overview
 
-Analysis pipeline for integrating bulk transcriptomics from two mechanically distinct electrode platforms (silicon and polyimide), single-nucleus RNA-seq (81,834 nuclei, 28 samples), and Visium spatial transcriptomics (6 sections) to characterize the cellular programs at the neural electrode interface.
+Analysis pipeline for integrating bulk transcriptomics from two mechanically distinct electrode platforms (silicon and polyimide), single-nucleus RNA-seq, and Visium spatial transcriptomics to characterize the cellular programs at the neural electrode interface.
 
 See `docs/` for per-script documentation.
 
